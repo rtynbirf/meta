@@ -21,6 +21,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "карта актуальна"
           else
-            git commit -qm "meta: карта пересобрана из живого API [skip ci]"
+            git commit -qm "meta: карта пересобрана из живого API"
             git push
           fi

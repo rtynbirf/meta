@@ -2,6 +2,8 @@ name: meta-drift
 on:
   push:
   pull_request:
+  schedule:
+    - cron: "10 4 * * *"
 jobs:
   drift:
     runs-on: ubuntu-latest
