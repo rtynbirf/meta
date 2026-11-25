@@ -1,0 +1,26 @@
+name: meta-map
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 4 * * *"
+permissions:
+  contents: write
+jobs:
+  map:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Пересобрать карту из живого публичного API
+        run: python3 meta_snapshot.py snapshot --login rtynbirf --root .
+      - name: Вселить обновлённую карту, если она изменилась
+        run: |
+          git config user.name "meta-bot"
+          git config user.email "meta-bot@users.noreply.github.com"
+          git add MAP.md map.json
+          if git diff --cached --quiet; then
+            echo "карта актуальна"
+          else
+            git commit -qm "meta: карта пересобрана из живого API [skip ci]"
+            git push
+          fi

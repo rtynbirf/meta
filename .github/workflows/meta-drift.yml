@@ -1,0 +1,11 @@
+name: meta-drift
+on:
+  push:
+  pull_request:
+jobs:
+  drift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Карта обязана совпадать с живым публичным API (иначе красный)
+        run: python3 meta_snapshot.py drift --login rtynbirf --root .
