@@ -1,7 +1,7 @@
 # МЕТА-КАРТА ВСЕЛЕННОЙ rtynbirf
 
 Собрана `meta_snapshot.py` из публичного API GitHub: только данные, видимые любому.
-Сборка: `2026-11-27T19:29:28+00:00`. Без ключей, без секретов. Числа — только маркеры; руками счётчик запрещён.
+Сборка: `2026-11-27T19:45:52+00:00`. Без ключей, без секретов. Числа — только маркеры; руками счётчик запрещён.
 
 ## Итог
 
@@ -27,11 +27,11 @@
 | cell65-host | 2026-11-27 | JavaScript | 0 |
 | code | 2026-11-27 | Python | 0 |
 | combain-v2 | 2026-11-27 | JavaScript | 0 |
-| commons | 2026-11-25 | Python | 0 |
+| commons | 2026-11-27 | Python | 0 |
 | dogovor | 2026-11-27 | Python | 0 |
-| domovenok | 2026-11-25 | TypeScript | 0 |
+| domovenok | 2026-11-27 | TypeScript | 0 |
 | domovoy | 2026-11-27 | PowerShell | 0 |
-| domovoy-ritual | 2026-11-25 | Python | 0 |
+| domovoy-ritual | 2026-11-27 | Python | 0 |
 | domovoy-tweaker | 2026-11-27 | PowerShell | 0 |
 | door-zero | 2026-11-27 | Python | 0 |
 | edinyy-svod | 2026-11-27 | Python | 0 |
@@ -41,36 +41,36 @@
 | fond-host | 2026-11-27 | Python | 0 |
 | free-man | 2026-11-27 | Python | 0 |
 | github-doctrine | 2026-11-27 | Python | 0 |
-| github-runbook | 2026-11-25 | Python | 0 |
+| github-runbook | 2026-11-27 | Python | 0 |
 | global-practice-atlas | 2026-11-27 | Python | 0 |
-| global-video-platforms-registry | 2026-11-25 | Python | 0 |
+| global-video-platforms-registry | 2026-11-27 | Python | 0 |
 | H-PE11-PHOENIX | 2026-11-27 | PowerShell | 0 |
 | hologram | 2026-11-27 | Python | 0 |
 | index | 2026-11-27 | Python | 0 |
 | inv-automat | 2026-11-27 | Python | 0 |
 | invariant-manifest | 2026-11-27 | Python | 0 |
-| karaoke-dream | 2026-11-25 | JavaScript | 0 |
+| karaoke-dream | 2026-11-27 | JavaScript | 0 |
 | karta | 2026-11-27 | Python | 0 |
 | kb | 2026-11-27 | Python | 0 |
 | khozyain | 2026-11-27 | Python | 0 |
-| language-through-the-ages | 2026-11-25 | HTML | 0 |
+| language-through-the-ages | 2026-11-27 | HTML | 0 |
 | lean-canon | 2026-11-27 | Lean | 1 |
 | lex-naturae | 2026-11-27 | Python | 0 |
 | lfs-core | 2026-11-27 | Python | 0 |
-| linguistic-code | 2026-11-25 | Python | 0 |
-| markitdown | 2026-11-25 | Python | 0 |
+| linguistic-code | 2026-11-27 | Python | 0 |
+| markitdown | 2026-11-27 | Python | 0 |
 | meta | 2026-11-27 | Python | 0 |
 | meta-layer-kit | 2026-11-27 | Python | 0 |
 | nemoy-svidetel | 2026-11-27 | Python | 0 |
 | neutral-browser | 2026-11-27 | Rust | 0 |
 | noosetka | 2026-11-27 | Python | 0 |
-| nous | 2026-11-25 | Python | 0 |
-| os-forge | 2026-11-25 | Python | 0 |
+| nous | 2026-11-27 | Python | 0 |
+| os-forge | 2026-11-27 | Python | 0 |
 | polimat-hub | 2026-11-25 | Python | 0 |
 | polimat-task174 | 2026-11-25 | Python | 0 |
 | polymat-hive | 2026-11-27 | Python | 0 |
 | polymath-atlas | 2026-11-25 | Python | 0 |
-| POLYMATH-ATLAS-GESTALT-CANON | 2026-11-25 | Lean | 0 |
+| POLYMATH-ATLAS-GESTALT-CANON | 2026-11-27 | Lean | 0 |
 | polymath-atlas-v107 | 2026-11-25 | Python | 1 |
 | polymath-core | 2026-11-27 | Python | 0 |
 | polymath-gen | 2026-11-25 | Python | 0 |
