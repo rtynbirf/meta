@@ -1,19 +1,20 @@
 # МЕТА-КАРТА ВСЕЛЕННОЙ rtynbirf
 
 Собрана `meta_snapshot.py` из публичного API GitHub: только данные, видимые любому.
-Сборка: `2026-11-27T13:28:02+00:00`. Без ключей, без секретов. Числа — только маркеры; руками счётчик запрещён.
+Сборка: `2026-11-27T18:20:56+00:00`. Без ключей, без секретов. Числа — только маркеры; руками счётчик запрещён.
+живой API закрылся (HTTP Error 403: rate limit exceeded) — офлайн-реплей захвата. Пропуски заполнит бот из живого API.
 
 ## Итог
 
 | Показатель | Значение |
 |---|---|
-| repos | <!--c:repos-->84<!--/c--> |
-| repos_listed | <!--c:repos_listed-->84<!--/c--> |
+| repos | <!--c:repos-->85<!--/c--> |
+| repos_listed | <!--c:repos_listed-->85<!--/c--> |
 | stars | <!--c:stars-->3<!--/c--> |
 | forks | <!--c:forks-->1<!--/c--> |
 | languages | <!--c:languages-->7<!--/c--> |
-| pushed_30d | <!--c:pushed_30d-->84<!--/c--> |
-| repos_hash | <!--c:repos_hash-->b3bbb5739003<!--/c--> |
+| pushed_30d | <!--c:pushed_30d-->85<!--/c--> |
+| repos_hash | <!--c:repos_hash-->1413062004a5<!--/c--> |
 
 ## Репозитории (информационно; бот пересобирает карту)
 
@@ -59,8 +60,9 @@
 | lfs-core | 2026-11-27 | Python | 0 |
 | linguistic-code | 2026-11-25 | Python | 0 |
 | markitdown | 2026-11-25 | Python | 0 |
-| meta | 2026-11-26 | Python | 0 |
+| meta | 2026-11-27 | Python | 0 |
 | meta-layer-kit | 2026-11-27 | Python | 0 |
+| nemoy-svidetel | 2026-11-27 | Python | 0 |
 | neutral-browser | 2026-11-27 | Rust | 0 |
 | noosetka | 2026-11-27 | Python | 0 |
 | nous | 2026-11-25 | Python | 0 |
