@@ -19,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 21 | 2 | 26 | 2026-11-28 | 0 |
+| 21 | 2 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# meta
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/meta"><img src="banner.png" width="100%" alt="meta — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
 
 # meta
 
