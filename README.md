@@ -4,6 +4,14 @@
 
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/meta@main/repo-muse.svg" width="100%" alt="Муза meta: мастерская КУЗНЯ ПОЛИМАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/meta@main/forge-divider.svg" width="62%" alt="делитель мастерской КУЗНЯ ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
   <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы meta в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
@@ -11,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 19 | 2 | 24 | 2026-11-28 | 0 |
+| 19 | 2 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# meta
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/meta@main/.github/social-preview.png" alt="meta" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/meta"><img src="banner.png" width="100%" alt="meta — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
 
 # meta · МЕТА-КАРТА вселенной rtynbirf
 
@@ -54,3 +74,5 @@ python3 meta_snapshot.py status   --root .
 ```
 
 Правила работы в этом репо — `AGENTS.md` (мембрана дома); уязвимости — `SECURITY.md`; лицензия — `LICENSE`.
+
+<!--ФОРЖ:ПОДВАЛ-->
