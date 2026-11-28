@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:45:52+00:00",
+  "generated_at": "2026-11-28T09:23:39+00:00",
   "login": "rtynbirf",
   "repos": 85,
   "repos_listed": 85,
@@ -11,511 +11,511 @@
   "rows": [
     {
       "name": ".github",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "agryp",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "assembly-protocol",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "cell-rs",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "cell-swarm",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "cell65-host",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "JavaScript",
       "stars": 0
     },
     {
       "name": "code",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "combain-v2",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "JavaScript",
       "stars": 0
     },
     {
       "name": "commons",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "dogovor",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "domovenok",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "TypeScript",
       "stars": 0
     },
     {
       "name": "domovoy",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "PowerShell",
       "stars": 0
     },
     {
       "name": "domovoy-ritual",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "domovoy-tweaker",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "PowerShell",
       "stars": 0
     },
     {
       "name": "door-zero",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "edinyy-svod",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "ekonomika",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "ekspozicii",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "HTML",
       "stars": 0
     },
     {
       "name": "factum",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "fond-host",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "free-man",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "github-doctrine",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "github-runbook",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "global-practice-atlas",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "global-video-platforms-registry",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "H-PE11-PHOENIX",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "PowerShell",
       "stars": 0
     },
     {
       "name": "hologram",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "index",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "inv-automat",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "invariant-manifest",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "karaoke-dream",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "JavaScript",
       "stars": 0
     },
     {
       "name": "karta",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "kb",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "khozyain",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "language-through-the-ages",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "HTML",
       "stars": 0
     },
     {
       "name": "lean-canon",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Lean",
       "stars": 1
     },
     {
       "name": "lex-naturae",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "lfs-core",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "linguistic-code",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "markitdown",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "meta",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "meta-layer-kit",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "nemoy-svidetel",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "neutral-browser",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Rust",
       "stars": 0
     },
     {
       "name": "noosetka",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "nous",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "os-forge",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polimat-hub",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polimat-task174",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polymat-hive",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polymath-atlas",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "POLYMATH-ATLAS-GESTALT-CANON",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Lean",
       "stars": 0
     },
     {
       "name": "polymath-atlas-v107",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 1
     },
     {
       "name": "polymath-core",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polymath-gen",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polymath-multiagent",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polymath-os",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "polymath-stckg-core",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Lean",
       "stars": 0
     },
     {
       "name": "polymath-tools-atlas",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "HTML",
       "stars": 0
     },
     {
       "name": "red-thread-debt-audit",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "release-vault",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "relomat",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "rent-mechanism-q43",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "repo-doctrine",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "repo-seed",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "revo",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "rtynbirf",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "rtynbirf.github.io",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "HTML",
       "stars": 0
     },
     {
       "name": "rumu",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "runtime-protocol",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "ruvson",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "ruvson-lyrics",
-      "pushed": "2026-11-26",
+      "pushed": "2026-11-28",
       "language": "JavaScript",
       "stars": 0
     },
     {
       "name": "ruvson-rse2",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "singulyar",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "HTML",
       "stars": 0
     },
     {
       "name": "singulyar-a0-audit",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "singulyar-llm",
-      "pushed": "2026-11-26",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "task-graph-propagator",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "uace",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "JavaScript",
       "stars": 0
     },
     {
       "name": "uace-pml",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "JavaScript",
       "stars": 0
     },
     {
       "name": "uace-polymat",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "JavaScript",
       "stars": 0
     },
     {
       "name": "universal-agent",
-      "pushed": "2026-11-21",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "voice-atlas-llm",
-      "pushed": "2026-11-27",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 1
     },
     {
       "name": "web-evolution-1991-2026",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "HTML",
       "stars": 0
     },
     {
       "name": "windows-chronicle",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "Python",
       "stars": 0
     },
     {
       "name": "yazyk-skvoz-epohi",
-      "pushed": "2026-11-25",
+      "pushed": "2026-11-28",
       "language": "HTML",
       "stars": 0
     }
